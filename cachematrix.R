@@ -1,4 +1,4 @@
-## This is work done by Alla Roisenberg for R programming class
+## This is work done by roiseal for R programming class
 ## functions included save effort of inversion of the matrix if one was already performed## and stored in cache for future reuse. 
 ## function mackeCacheMatrix does Matrix (square) inversion Cache 
 
